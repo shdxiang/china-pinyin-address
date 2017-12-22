@@ -1,6 +1,6 @@
 # china-pinyin-address
 
-Translate Chinese address to pinyin
+Translate Chinese address to Pinyin.
 
 source:
 
