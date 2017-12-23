@@ -17,7 +17,7 @@ dest:
 ## Usage
 
 ```
-python main.py china_address_v4_cn.json china_address_v4_en.json
+python main.py china_address_cn.json china_address_en.json
 ```
 
 [china_address_cn.json](./china_address_cn.json) is translated to [china_address_en.json](./china_address_en.json)
