@@ -35,11 +35,11 @@ Input:
 Output:
 
 ```json
-{"key": "CN", "value": "China"}
+{"name": "China", "value": "CN"}
 ```
 
 ```json
-{"key": "CN", "value": "中国"}
+{"name": "中国", "value": "CN"}
 ```
 
 ### Usage

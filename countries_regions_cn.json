@@ -1,998 +1,998 @@
 [
   {
-    "key": "AD",
-    "value": "安道尔"
+    "name": "阿尔巴尼亚",
+    "value": "AL"
   },
   {
-    "key": "AE",
-    "value": "阿联酋"
+    "name": "阿尔及利亚",
+    "value": "DZ"
   },
   {
-    "key": "AF",
-    "value": "阿富汗"
+    "name": "阿富汗",
+    "value": "AF"
   },
   {
-    "key": "AG",
-    "value": "安提瓜和巴布达"
+    "name": "阿根廷",
+    "value": "AR"
   },
   {
-    "key": "AI",
-    "value": "安圭拉"
+    "name": "爱尔兰",
+    "value": "IE"
   },
   {
-    "key": "AL",
-    "value": "阿尔巴尼亚"
+    "name": "埃及",
+    "value": "EG"
   },
   {
-    "key": "AM",
-    "value": "亚美尼亚"
+    "name": "埃塞俄比亚",
+    "value": "ET"
   },
   {
-    "key": "AO",
-    "value": "安哥拉"
+    "name": "爱沙尼亚",
+    "value": "EE"
   },
   {
-    "key": "AQ",
-    "value": "南极洲"
+    "name": "阿联酋",
+    "value": "AE"
   },
   {
-    "key": "AR",
-    "value": "阿根廷"
+    "name": "阿鲁巴",
+    "value": "AW"
   },
   {
-    "key": "AS",
-    "value": "美属萨摩亚"
+    "name": "阿曼",
+    "value": "OM"
   },
   {
-    "key": "AT",
-    "value": "奥地利"
+    "name": "安道尔",
+    "value": "AD"
   },
   {
-    "key": "AU",
-    "value": "澳大利亚"
+    "name": "安哥拉",
+    "value": "AO"
   },
   {
-    "key": "AW",
-    "value": "阿鲁巴"
+    "name": "安圭拉",
+    "value": "AI"
   },
   {
-    "key": "AX",
-    "value": "奥兰群岛"
+    "name": "安提瓜和巴布达",
+    "value": "AG"
   },
   {
-    "key": "AZ",
-    "value": "阿塞拜疆"
+    "name": "澳大利亚",
+    "value": "AU"
   },
   {
-    "key": "BA",
-    "value": "波黑"
+    "name": "奥地利",
+    "value": "AT"
   },
   {
-    "key": "BB",
-    "value": "巴巴多斯"
+    "name": "奥兰群岛",
+    "value": "AX"
   },
   {
-    "key": "BD",
-    "value": "孟加拉"
+    "name": "澳门",
+    "value": "MO"
   },
   {
-    "key": "BE",
-    "value": "比利时"
+    "name": "阿塞拜疆",
+    "value": "AZ"
   },
   {
-    "key": "BF",
-    "value": "布基纳法索"
+    "name": "巴巴多斯",
+    "value": "BB"
   },
   {
-    "key": "BG",
-    "value": "保加利亚"
+    "name": "巴布亚新几内亚",
+    "value": "PG"
   },
   {
-    "key": "BH",
-    "value": "巴林"
+    "name": "巴哈马",
+    "value": "BS"
   },
   {
-    "key": "BI",
-    "value": "布隆迪"
+    "name": "白俄罗斯",
+    "value": "BY"
   },
   {
-    "key": "BJ",
-    "value": "贝宁"
+    "name": "百慕大",
+    "value": "BM"
   },
   {
-    "key": "BL",
-    "value": "圣巴泰勒米岛"
+    "name": "巴基斯坦",
+    "value": "PK"
   },
   {
-    "key": "BM",
-    "value": "百慕大"
+    "name": "巴拉圭",
+    "value": "PY"
   },
   {
-    "key": "BN",
-    "value": "文莱"
+    "name": "巴勒斯坦",
+    "value": "PS"
   },
   {
-    "key": "BO",
-    "value": "玻利维亚"
+    "name": "巴林",
+    "value": "BH"
   },
   {
-    "key": "BQ",
-    "value": "荷兰加勒比区"
+    "name": "巴拿马",
+    "value": "PA"
   },
   {
-    "key": "BR",
-    "value": "巴西"
+    "name": "保加利亚",
+    "value": "BG"
   },
   {
-    "key": "BS",
-    "value": "巴哈马"
+    "name": "巴西",
+    "value": "BR"
   },
   {
-    "key": "BT",
-    "value": "不丹"
+    "name": "北马里亚纳群岛",
+    "value": "MP"
   },
   {
-    "key": "BV",
-    "value": "布韦岛"
+    "name": "贝宁",
+    "value": "BJ"
   },
   {
-    "key": "BW",
-    "value": "博茨瓦纳"
+    "name": "比利时",
+    "value": "BE"
   },
   {
-    "key": "BY",
-    "value": "白俄罗斯"
+    "name": "冰岛",
+    "value": "IS"
   },
   {
-    "key": "BZ",
-    "value": "伯利兹"
+    "name": "博茨瓦纳",
+    "value": "BW"
   },
   {
-    "key": "CA",
-    "value": "加拿大"
+    "name": "波多黎各",
+    "value": "PR"
   },
   {
-    "key": "CC",
-    "value": "科科斯群岛"
+    "name": "波黑",
+    "value": "BA"
   },
   {
-    "key": "CD",
-    "value": "刚果（金）"
+    "name": "波兰",
+    "value": "PL"
   },
   {
-    "key": "CF",
-    "value": "中非"
+    "name": "玻利维亚",
+    "value": "BO"
   },
   {
-    "key": "CG",
-    "value": "刚果（布）"
+    "name": "伯利兹",
+    "value": "BZ"
   },
   {
-    "key": "CH",
-    "value": "瑞士"
+    "name": "不丹",
+    "value": "BT"
   },
   {
-    "key": "CI",
-    "value": "科特迪瓦"
+    "name": "布基纳法索",
+    "value": "BF"
   },
   {
-    "key": "CK",
-    "value": "库克群岛"
+    "name": "布隆迪",
+    "value": "BI"
   },
   {
-    "key": "CL",
-    "value": "智利"
+    "name": "布韦岛",
+    "value": "BV"
   },
   {
-    "key": "CM",
-    "value": "喀麦隆"
+    "name": "赤道几内亚",
+    "value": "GQ"
   },
   {
-    "key": "CN",
-    "value": "中国"
+    "name": "丹麦",
+    "value": "DK"
   },
   {
-    "key": "CO",
-    "value": "哥伦比亚"
+    "name": "德国",
+    "value": "DE"
   },
   {
-    "key": "CR",
-    "value": "哥斯达黎加"
+    "name": "东帝汶",
+    "value": "TL"
   },
   {
-    "key": "CU",
-    "value": "古巴"
+    "name": "多哥",
+    "value": "TG"
   },
   {
-    "key": "CV",
-    "value": "佛得角"
+    "name": "多米尼加",
+    "value": "DO"
   },
   {
-    "key": "CW",
-    "value": "库拉索"
+    "name": "多米尼克",
+    "value": "DM"
   },
   {
-    "key": "CX",
-    "value": "圣诞岛"
+    "name": "厄瓜多尔",
+    "value": "EC"
   },
   {
-    "key": "CY",
-    "value": "塞浦路斯"
+    "name": "厄立特里亚",
+    "value": "ER"
   },
   {
-    "key": "CZ",
-    "value": "捷克"
+    "name": "俄罗斯",
+    "value": "RU"
   },
   {
-    "key": "DE",
-    "value": "德国"
+    "name": "法国 法国",
+    "value": "FR"
   },
   {
-    "key": "DJ",
-    "value": "吉布提"
+    "name": "法罗群岛",
+    "value": "FO"
   },
   {
-    "key": "DK",
-    "value": "丹麦"
+    "name": "梵蒂冈",
+    "value": "VA"
   },
   {
-    "key": "DM",
-    "value": "多米尼克"
+    "name": "法属波利尼西亚",
+    "value": "PF"
   },
   {
-    "key": "DO",
-    "value": "多米尼加"
+    "name": "法属圭亚那",
+    "value": "GF"
   },
   {
-    "key": "DZ",
-    "value": "阿尔及利亚"
+    "name": "法属南部领地",
+    "value": "TF"
   },
   {
-    "key": "EC",
-    "value": "厄瓜多尔"
+    "name": "法属圣马丁",
+    "value": "MF"
   },
   {
-    "key": "EE",
-    "value": "爱沙尼亚"
+    "name": "斐济群岛",
+    "value": "FJ"
   },
   {
-    "key": "EG",
-    "value": "埃及"
+    "name": "菲律宾",
+    "value": "PH"
   },
   {
-    "key": "EH",
-    "value": "西撒哈拉"
+    "name": "芬兰",
+    "value": "FI"
   },
   {
-    "key": "ER",
-    "value": "厄立特里亚"
+    "name": "佛得角",
+    "value": "CV"
   },
   {
-    "key": "ES",
-    "value": "西班牙"
+    "name": "冈比亚",
+    "value": "GM"
   },
   {
-    "key": "ET",
-    "value": "埃塞俄比亚"
+    "name": "刚果（布）",
+    "value": "CG"
   },
   {
-    "key": "FI",
-    "value": "芬兰"
+    "name": "刚果（金）",
+    "value": "CD"
   },
   {
-    "key": "FJ",
-    "value": "斐济群岛"
+    "name": "格陵兰",
+    "value": "GL"
   },
   {
-    "key": "FK",
-    "value": "马尔维纳斯群岛（福克兰）"
+    "name": "格林纳达",
+    "value": "GD"
   },
   {
-    "key": "FM",
-    "value": "密克罗尼西亚联邦"
+    "name": "格鲁吉亚",
+    "value": "GE"
   },
   {
-    "key": "FO",
-    "value": "法罗群岛"
+    "name": "哥伦比亚",
+    "value": "CO"
   },
   {
-    "key": "FR",
-    "value": "法国 法国"
+    "name": "根西岛",
+    "value": "GG"
   },
   {
-    "key": "GA",
-    "value": "加蓬"
+    "name": "哥斯达黎加",
+    "value": "CR"
   },
   {
-    "key": "GB",
-    "value": "英国"
+    "name": "瓜德罗普",
+    "value": "GP"
   },
   {
-    "key": "GD",
-    "value": "格林纳达"
+    "name": "关岛",
+    "value": "GU"
   },
   {
-    "key": "GE",
-    "value": "格鲁吉亚"
+    "name": "古巴",
+    "value": "CU"
   },
   {
-    "key": "GF",
-    "value": "法属圭亚那"
+    "name": "圭亚那",
+    "value": "GY"
   },
   {
-    "key": "GG",
-    "value": "根西岛"
+    "name": "海地",
+    "value": "HT"
   },
   {
-    "key": "GH",
-    "value": "加纳"
+    "name": "韩国",
+    "value": "KR"
   },
   {
-    "key": "GI",
-    "value": "直布罗陀"
+    "name": "哈萨克斯坦",
+    "value": "KZ"
   },
   {
-    "key": "GL",
-    "value": "格陵兰"
+    "name": "赫德岛和麦克唐纳群岛",
+    "value": "HM"
   },
   {
-    "key": "GM",
-    "value": "冈比亚"
+    "name": "黑山",
+    "value": "ME"
   },
   {
-    "key": "GN",
-    "value": "几内亚"
+    "name": "荷兰",
+    "value": "NL"
   },
   {
-    "key": "GP",
-    "value": "瓜德罗普"
+    "name": "荷兰加勒比区",
+    "value": "BQ"
   },
   {
-    "key": "GQ",
-    "value": "赤道几内亚"
+    "name": "荷属圣马丁",
+    "value": "SX"
   },
   {
-    "key": "GR",
-    "value": "希腊"
+    "name": "洪都拉斯",
+    "value": "HN"
   },
   {
-    "key": "GS",
-    "value": "南乔治亚岛和南桑威奇群岛"
+    "name": "加纳",
+    "value": "GH"
   },
   {
-    "key": "GT",
-    "value": "危地马拉"
+    "name": "加拿大",
+    "value": "CA"
   },
   {
-    "key": "GU",
-    "value": "关岛"
+    "name": "柬埔寨",
+    "value": "KH"
   },
   {
-    "key": "GW",
-    "value": "几内亚比绍"
+    "name": "加蓬",
+    "value": "GA"
   },
   {
-    "key": "GY",
-    "value": "圭亚那"
+    "name": "吉布提",
+    "value": "DJ"
   },
   {
-    "key": "HK",
-    "value": "香港"
+    "name": "捷克",
+    "value": "CZ"
   },
   {
-    "key": "HM",
-    "value": "赫德岛和麦克唐纳群岛"
+    "name": "吉尔吉斯斯坦",
+    "value": "KG"
   },
   {
-    "key": "HN",
-    "value": "洪都拉斯"
+    "name": "基里巴斯",
+    "value": "KI"
   },
   {
-    "key": "HR",
-    "value": "克罗地亚"
+    "name": "津巴布韦",
+    "value": "ZW"
   },
   {
-    "key": "HT",
-    "value": "海地"
+    "name": "几内亚",
+    "value": "GN"
   },
   {
-    "key": "HU",
-    "value": "匈牙利"
+    "name": "几内亚比绍",
+    "value": "GW"
   },
   {
-    "key": "ID",
-    "value": "印尼"
+    "name": "开曼群岛",
+    "value": "KY"
   },
   {
-    "key": "IE",
-    "value": "爱尔兰"
+    "name": "喀麦隆",
+    "value": "CM"
   },
   {
-    "key": "IL",
-    "value": "以色列"
+    "name": "科科斯群岛",
+    "value": "CC"
   },
   {
-    "key": "IM",
-    "value": "马恩岛"
+    "name": "克罗地亚",
+    "value": "HR"
   },
   {
-    "key": "IN",
-    "value": "印度"
+    "name": "科摩罗",
+    "value": "KM"
   },
   {
-    "key": "IO",
-    "value": "英属印度洋领地"
+    "name": "肯尼亚",
+    "value": "KE"
   },
   {
-    "key": "IQ",
-    "value": "伊拉克"
+    "name": "科特迪瓦",
+    "value": "CI"
   },
   {
-    "key": "IR",
-    "value": "伊朗"
+    "name": "科威特",
+    "value": "KW"
   },
   {
-    "key": "IS",
-    "value": "冰岛"
+    "name": "库克群岛",
+    "value": "CK"
   },
   {
-    "key": "IT",
-    "value": "意大利"
+    "name": "库拉索",
+    "value": "CW"
   },
   {
-    "key": "JE",
-    "value": "泽西岛"
+    "name": "莱索托",
+    "value": "LS"
   },
   {
-    "key": "JM",
-    "value": "牙买加"
+    "name": "老挝",
+    "value": "LA"
   },
   {
-    "key": "JO",
-    "value": "约旦"
+    "name": "拉脱维亚",
+    "value": "LV"
   },
   {
-    "key": "JP",
-    "value": "日本"
+    "name": "黎巴嫩",
+    "value": "LB"
   },
   {
-    "key": "KE",
-    "value": "肯尼亚"
+    "name": "利比里亚",
+    "value": "LR"
   },
   {
-    "key": "KG",
-    "value": "吉尔吉斯斯坦"
+    "name": "利比亚",
+    "value": "LY"
   },
   {
-    "key": "KH",
-    "value": "柬埔寨"
+    "name": "列支敦士登",
+    "value": "LI"
   },
   {
-    "key": "KI",
-    "value": "基里巴斯"
+    "name": "立陶宛",
+    "value": "LT"
   },
   {
-    "key": "KM",
-    "value": "科摩罗"
+    "name": "留尼汪",
+    "value": "RE"
   },
   {
-    "key": "KN",
-    "value": "圣基茨和尼维斯"
+    "name": "罗马尼亚",
+    "value": "RO"
   },
   {
-    "key": "KP",
-    "value": "朝鲜"
+    "name": "卢森堡",
+    "value": "LU"
   },
   {
-    "key": "KR",
-    "value": "韩国"
+    "name": "卢旺达",
+    "value": "RW"
   },
   {
-    "key": "KW",
-    "value": "科威特"
+    "name": "马达加斯加",
+    "value": "MG"
   },
   {
-    "key": "KY",
-    "value": "开曼群岛"
+    "name": "马恩岛",
+    "value": "IM"
   },
   {
-    "key": "KZ",
-    "value": "哈萨克斯坦"
+    "name": "马尔代夫",
+    "value": "MV"
   },
   {
-    "key": "LA",
-    "value": "老挝"
+    "name": "马耳他",
+    "value": "MT"
   },
   {
-    "key": "LB",
-    "value": "黎巴嫩"
+    "name": "马尔维纳斯群岛（福克兰）",
+    "value": "FK"
   },
   {
-    "key": "LC",
-    "value": "圣卢西亚"
+    "name": "马来西亚",
+    "value": "MY"
   },
   {
-    "key": "LI",
-    "value": "列支敦士登"
+    "name": "马拉维",
+    "value": "MW"
   },
   {
-    "key": "LK",
-    "value": "斯里兰卡"
+    "name": "马里",
+    "value": "ML"
   },
   {
-    "key": "LR",
-    "value": "利比里亚"
+    "name": "毛里求斯",
+    "value": "MU"
   },
   {
-    "key": "LS",
-    "value": "莱索托"
+    "name": "毛里塔尼亚",
+    "value": "MR"
   },
   {
-    "key": "LT",
-    "value": "立陶宛"
+    "name": "马其顿",
+    "value": "MK"
   },
   {
-    "key": "LU",
-    "value": "卢森堡"
+    "name": "马绍尔群岛",
+    "value": "MH"
   },
   {
-    "key": "LV",
-    "value": "拉脱维亚"
+    "name": "马提尼克",
+    "value": "MQ"
   },
   {
-    "key": "LY",
-    "value": "利比亚"
+    "name": "马约特",
+    "value": "YT"
   },
   {
-    "key": "MA",
-    "value": "摩洛哥"
+    "name": "美国",
+    "value": "US"
   },
   {
-    "key": "MC",
-    "value": "摩纳哥"
+    "name": "美国本土外小岛屿",
+    "value": "UM"
   },
   {
-    "key": "MD",
-    "value": "摩尔多瓦"
+    "name": "美属萨摩亚",
+    "value": "AS"
   },
   {
-    "key": "ME",
-    "value": "黑山"
+    "name": "美属维尔京群岛",
+    "value": "VI"
   },
   {
-    "key": "MF",
-    "value": "法属圣马丁"
+    "name": "蒙古国",
+    "value": "MN"
   },
   {
-    "key": "MG",
-    "value": "马达加斯加"
+    "name": "孟加拉",
+    "value": "BD"
   },
   {
-    "key": "MH",
-    "value": "马绍尔群岛"
+    "name": "蒙塞拉特岛",
+    "value": "MS"
   },
   {
-    "key": "MK",
-    "value": "马其顿"
+    "name": "缅甸",
+    "value": "MM"
   },
   {
-    "key": "ML",
-    "value": "马里"
+    "name": "密克罗尼西亚联邦",
+    "value": "FM"
   },
   {
-    "key": "MM",
-    "value": "缅甸"
+    "name": "秘鲁",
+    "value": "PE"
   },
   {
-    "key": "MN",
-    "value": "蒙古国"
+    "name": "摩尔多瓦",
+    "value": "MD"
   },
   {
-    "key": "MO",
-    "value": "澳门"
+    "name": "摩洛哥",
+    "value": "MA"
   },
   {
-    "key": "MP",
-    "value": "北马里亚纳群岛"
+    "name": "摩纳哥",
+    "value": "MC"
   },
   {
-    "key": "MQ",
-    "value": "马提尼克"
+    "name": "莫桑比克",
+    "value": "MZ"
   },
   {
-    "key": "MR",
-    "value": "毛里塔尼亚"
+    "name": "墨西哥",
+    "value": "MX"
   },
   {
-    "key": "MS",
-    "value": "蒙塞拉特岛"
+    "name": "纳米比亚",
+    "value": "NA"
   },
   {
-    "key": "MT",
-    "value": "马耳他"
+    "name": "南非",
+    "value": "ZA"
   },
   {
-    "key": "MU",
-    "value": "毛里求斯"
+    "name": "南极洲",
+    "value": "AQ"
   },
   {
-    "key": "MV",
-    "value": "马尔代夫"
+    "name": "南乔治亚岛和南桑威奇群岛",
+    "value": "GS"
   },
   {
-    "key": "MW",
-    "value": "马拉维"
+    "name": "南苏丹",
+    "value": "SS"
   },
   {
-    "key": "MX",
-    "value": "墨西哥"
+    "name": "瑙鲁",
+    "value": "NR"
   },
   {
-    "key": "MY",
-    "value": "马来西亚"
+    "name": "尼泊尔",
+    "value": "NP"
   },
   {
-    "key": "MZ",
-    "value": "莫桑比克"
+    "name": "尼加拉瓜",
+    "value": "NI"
   },
   {
-    "key": "NA",
-    "value": "纳米比亚"
+    "name": "尼日尔",
+    "value": "NE"
   },
   {
-    "key": "NC",
-    "value": "新喀里多尼亚"
+    "name": "尼日利亚",
+    "value": "NG"
   },
   {
-    "key": "NE",
-    "value": "尼日尔"
+    "name": "纽埃",
+    "value": "NU"
   },
   {
-    "key": "NF",
-    "value": "诺福克岛"
+    "name": "诺福克岛",
+    "value": "NF"
   },
   {
-    "key": "NG",
-    "value": "尼日利亚"
+    "name": "挪威",
+    "value": "NO"
   },
   {
-    "key": "NI",
-    "value": "尼加拉瓜"
+    "name": "帕劳",
+    "value": "PW"
   },
   {
-    "key": "NL",
-    "value": "荷兰"
+    "name": "皮特凯恩群岛",
+    "value": "PN"
   },
   {
-    "key": "NO",
-    "value": "挪威"
+    "name": "葡萄牙",
+    "value": "PT"
   },
   {
-    "key": "NP",
-    "value": "尼泊尔"
+    "name": "卡塔尔",
+    "value": "QA"
   },
   {
-    "key": "NR",
-    "value": "瑙鲁"
+    "name": "日本",
+    "value": "JP"
   },
   {
-    "key": "NU",
-    "value": "纽埃"
+    "name": "瑞典",
+    "value": "SE"
   },
   {
-    "key": "NZ",
-    "value": "新西兰"
+    "name": "瑞士",
+    "value": "CH"
   },
   {
-    "key": "OM",
-    "value": "阿曼"
+    "name": "萨尔瓦多",
+    "value": "SV"
   },
   {
-    "key": "PA",
-    "value": "巴拿马"
+    "name": "塞尔维亚",
+    "value": "RS"
   },
   {
-    "key": "PE",
-    "value": "秘鲁"
+    "name": "塞拉利昂",
+    "value": "SL"
   },
   {
-    "key": "PF",
-    "value": "法属波利尼西亚"
+    "name": "塞内加尔",
+    "value": "SN"
   },
   {
-    "key": "PG",
-    "value": "巴布亚新几内亚"
+    "name": "塞浦路斯",
+    "value": "CY"
   },
   {
-    "key": "PH",
-    "value": "菲律宾"
+    "name": "塞舌尔",
+    "value": "SC"
   },
   {
-    "key": "PK",
-    "value": "巴基斯坦"
+    "name": "萨摩亚",
+    "value": "WS"
   },
   {
-    "key": "PL",
-    "value": "波兰"
+    "name": "沙特阿拉伯",
+    "value": "SA"
   },
   {
-    "key": "PM",
-    "value": "圣皮埃尔和密克隆"
+    "name": "圣巴泰勒米岛",
+    "value": "BL"
   },
   {
-    "key": "PN",
-    "value": "皮特凯恩群岛"
+    "name": "圣诞岛",
+    "value": "CX"
   },
   {
-    "key": "PR",
-    "value": "波多黎各"
+    "name": "圣多美和普林西比",
+    "value": "ST"
   },
   {
-    "key": "PS",
-    "value": "巴勒斯坦"
+    "name": "圣赫勒拿",
+    "value": "SH"
   },
   {
-    "key": "PT",
-    "value": "葡萄牙"
+    "name": "圣基茨和尼维斯",
+    "value": "KN"
   },
   {
-    "key": "PW",
-    "value": "帕劳"
+    "name": "圣卢西亚",
+    "value": "LC"
   },
   {
-    "key": "PY",
-    "value": "巴拉圭"
+    "name": "圣马力诺",
+    "value": "SM"
   },
   {
-    "key": "QA",
-    "value": "卡塔尔"
+    "name": "圣皮埃尔和密克隆",
+    "value": "PM"
   },
   {
-    "key": "RE",
-    "value": "留尼汪"
+    "name": "圣文森特和格林纳丁斯",
+    "value": "VC"
   },
   {
-    "key": "RO",
-    "value": "罗马尼亚"
+    "name": "斯里兰卡",
+    "value": "LK"
   },
   {
-    "key": "RS",
-    "value": "塞尔维亚"
+    "name": "斯洛伐克",
+    "value": "SK"
   },
   {
-    "key": "RU",
-    "value": "俄罗斯"
+    "name": "斯洛文尼亚",
+    "value": "SI"
   },
   {
-    "key": "RW",
-    "value": "卢旺达"
+    "name": "斯瓦尔巴群岛和扬马延岛",
+    "value": "SJ"
   },
   {
-    "key": "SA",
-    "value": "沙特阿拉伯"
+    "name": "斯威士兰",
+    "value": "SZ"
   },
   {
-    "key": "SB",
-    "value": "所罗门群岛"
+    "name": "苏丹",
+    "value": "SD"
   },
   {
-    "key": "SC",
-    "value": "塞舌尔"
+    "name": "苏里南",
+    "value": "SR"
   },
   {
-    "key": "SD",
-    "value": "苏丹"
+    "name": "所罗门群岛",
+    "value": "SB"
   },
   {
-    "key": "SE",
-    "value": "瑞典"
+    "name": "索马里",
+    "value": "SO"
   },
   {
-    "key": "SG",
-    "value": "新加坡"
+    "name": "泰国",
+    "value": "TH"
   },
   {
-    "key": "SH",
-    "value": "圣赫勒拿"
+    "name": "台湾",
+    "value": "TW"
   },
   {
-    "key": "SI",
-    "value": "斯洛文尼亚"
+    "name": "塔吉克斯坦",
+    "value": "TJ"
   },
   {
-    "key": "SJ",
-    "value": "斯瓦尔巴群岛和扬马延岛"
+    "name": "汤加",
+    "value": "TO"
   },
   {
-    "key": "SK",
-    "value": "斯洛伐克"
+    "name": "坦桑尼亚",
+    "value": "TZ"
   },
   {
-    "key": "SL",
-    "value": "塞拉利昂"
+    "name": "特克斯和凯科斯群岛",
+    "value": "TC"
   },
   {
-    "key": "SM",
-    "value": "圣马力诺"
+    "name": "特立尼达和多巴哥",
+    "value": "TT"
   },
   {
-    "key": "SN",
-    "value": "塞内加尔"
+    "name": "土耳其",
+    "value": "TR"
   },
   {
-    "key": "SO",
-    "value": "索马里"
+    "name": "土库曼斯坦",
+    "value": "TM"
   },
   {
-    "key": "SR",
-    "value": "苏里南"
+    "name": "突尼斯",
+    "value": "TN"
   },
   {
-    "key": "SS",
-    "value": "南苏丹"
+    "name": "托克劳",
+    "value": "TK"
   },
   {
-    "key": "ST",
-    "value": "圣多美和普林西比"
+    "name": "图瓦卢",
+    "value": "TV"
   },
   {
-    "key": "SV",
-    "value": "萨尔瓦多"
+    "name": "瓦利斯和富图纳",
+    "value": "WF"
   },
   {
-    "key": "SX",
-    "value": "荷属圣马丁"
+    "name": "瓦努阿图",
+    "value": "VU"
   },
   {
-    "key": "SY",
-    "value": "叙利亚"
+    "name": "危地马拉",
+    "value": "GT"
   },
   {
-    "key": "SZ",
-    "value": "斯威士兰"
+    "name": "委内瑞拉",
+    "value": "VE"
   },
   {
-    "key": "TC",
-    "value": "特克斯和凯科斯群岛"
+    "name": "文莱",
+    "value": "BN"
   },
   {
-    "key": "TD",
-    "value": "乍得"
+    "name": "乌干达",
+    "value": "UG"
   },
   {
-    "key": "TF",
-    "value": "法属南部领地"
+    "name": "乌克兰",
+    "value": "UA"
   },
   {
-    "key": "TG",
-    "value": "多哥"
+    "name": "乌拉圭",
+    "value": "UY"
   },
   {
-    "key": "TH",
-    "value": "泰国"
+    "name": "乌兹别克斯坦",
+    "value": "UZ"
   },
   {
-    "key": "TJ",
-    "value": "塔吉克斯坦"
+    "name": "香港",
+    "value": "HK"
   },
   {
-    "key": "TK",
-    "value": "托克劳"
+    "name": "西班牙",
+    "value": "ES"
   },
   {
-    "key": "TL",
-    "value": "东帝汶"
+    "name": "希腊",
+    "value": "GR"
   },
   {
-    "key": "TM",
-    "value": "土库曼斯坦"
+    "name": "新加坡",
+    "value": "SG"
   },
   {
-    "key": "TN",
-    "value": "突尼斯"
+    "name": "新喀里多尼亚",
+    "value": "NC"
   },
   {
-    "key": "TO",
-    "value": "汤加"
+    "name": "新西兰",
+    "value": "NZ"
   },
   {
-    "key": "TR",
-    "value": "土耳其"
+    "name": "匈牙利",
+    "value": "HU"
   },
   {
-    "key": "TT",
-    "value": "特立尼达和多巴哥"
+    "name": "西撒哈拉",
+    "value": "EH"
   },
   {
-    "key": "TV",
-    "value": "图瓦卢"
+    "name": "叙利亚",
+    "value": "SY"
   },
   {
-    "key": "TW",
-    "value": "台湾"
+    "name": "牙买加",
+    "value": "JM"
   },
   {
-    "key": "TZ",
-    "value": "坦桑尼亚"
+    "name": "亚美尼亚",
+    "value": "AM"
   },
   {
-    "key": "UA",
-    "value": "乌克兰"
+    "name": "也门",
+    "value": "YE"
   },
   {
-    "key": "UG",
-    "value": "乌干达"
+    "name": "意大利",
+    "value": "IT"
   },
   {
-    "key": "UM",
-    "value": "美国本土外小岛屿"
+    "name": "伊拉克",
+    "value": "IQ"
   },
   {
-    "key": "US",
-    "value": "美国"
+    "name": "伊朗",
+    "value": "IR"
   },
   {
-    "key": "UY",
-    "value": "乌拉圭"
+    "name": "印度",
+    "value": "IN"
   },
   {
-    "key": "UZ",
-    "value": "乌兹别克斯坦"
+    "name": "英国",
+    "value": "GB"
   },
   {
-    "key": "VA",
-    "value": "梵蒂冈"
+    "name": "英属维尔京群岛",
+    "value": "VG"
   },
   {
-    "key": "VC",
-    "value": "圣文森特和格林纳丁斯"
+    "name": "英属印度洋领地",
+    "value": "IO"
   },
   {
-    "key": "VE",
-    "value": "委内瑞拉"
+    "name": "印尼",
+    "value": "ID"
   },
   {
-    "key": "VG",
-    "value": "英属维尔京群岛"
+    "name": "以色列",
+    "value": "IL"
   },
   {
-    "key": "VI",
-    "value": "美属维尔京群岛"
+    "name": "约旦",
+    "value": "JO"
   },
   {
-    "key": "VN",
-    "value": "越南"
+    "name": "越南",
+    "value": "VN"
   },
   {
-    "key": "VU",
-    "value": "瓦努阿图"
+    "name": "赞比亚",
+    "value": "ZM"
   },
   {
-    "key": "WF",
-    "value": "瓦利斯和富图纳"
+    "name": "泽西岛",
+    "value": "JE"
   },
   {
-    "key": "WS",
-    "value": "萨摩亚"
+    "name": "乍得",
+    "value": "TD"
   },
   {
-    "key": "YE",
-    "value": "也门"
+    "name": "朝鲜",
+    "value": "KP"
   },
   {
-    "key": "YT",
-    "value": "马约特"
+    "name": "直布罗陀",
+    "value": "GI"
   },
   {
-    "key": "ZA",
-    "value": "南非"
+    "name": "智利",
+    "value": "CL"
   },
   {
-    "key": "ZM",
-    "value": "赞比亚"
+    "name": "中非",
+    "value": "CF"
   },
   {
-    "key": "ZW",
-    "value": "津巴布韦"
+    "name": "中国",
+    "value": "CN"
   }
 ]

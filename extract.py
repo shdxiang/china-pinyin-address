@@ -24,13 +24,13 @@ def main():
     for item in items:
         logging.debug(item)
         item_en = {
-            'key': item['code'],
-            'value': item['en']
+            'name': item['en'],
+            'value': item['code']
         }
         items_en.append(item_en)
         item_cn = {
-            'key': item['code'],
-            'value': item['cn']
+            'name': item['cn'],
+            'value': item['code']
         }
         items_cn.append(item_cn)
 
