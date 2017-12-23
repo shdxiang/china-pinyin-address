@@ -5,7 +5,7 @@ Translate Chinese address to Pinyin.
 source:
 
 ```
-{'name': '墨脱县', 'value': '540423', 'parent': '540400'}
+{'name': '墨脱', 'value': '540423', 'parent': '540400'}
 ```
 
 dest:
