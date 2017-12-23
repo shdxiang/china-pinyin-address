@@ -9,14 +9,15 @@ logging.basicConfig(level=logging.DEBUG, format=logFormat)
 pinyin = Pinyin()
 
 
-trantab = str.maketrans('', '', u'省市区县乡區縣鄉')
+# trantab = str.maketrans('', '', u'省市区县乡區縣鄉')
 
 
 def translate_item(item):
     '''
     {'name': '泽库县', 'value': '632323', 'parent': '632300'}
     '''
-    name = item['name'].translate(trantab)
+    # name = item['name'].translate(trantab)
+    name = item['name']
     name = pinyin.get_pinyin(name, '')
     item['name'] = name.title()
 
