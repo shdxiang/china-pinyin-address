@@ -1,0 +1,998 @@
+[
+  {
+    "key": "AD",
+    "value": "安道尔"
+  },
+  {
+    "key": "AE",
+    "value": "阿联酋"
+  },
+  {
+    "key": "AF",
+    "value": "阿富汗"
+  },
+  {
+    "key": "AG",
+    "value": "安提瓜和巴布达"
+  },
+  {
+    "key": "AI",
+    "value": "安圭拉"
+  },
+  {
+    "key": "AL",
+    "value": "阿尔巴尼亚"
+  },
+  {
+    "key": "AM",
+    "value": "亚美尼亚"
+  },
+  {
+    "key": "AO",
+    "value": "安哥拉"
+  },
+  {
+    "key": "AQ",
+    "value": "南极洲"
+  },
+  {
+    "key": "AR",
+    "value": "阿根廷"
+  },
+  {
+    "key": "AS",
+    "value": "美属萨摩亚"
+  },
+  {
+    "key": "AT",
+    "value": "奥地利"
+  },
+  {
+    "key": "AU",
+    "value": "澳大利亚"
+  },
+  {
+    "key": "AW",
+    "value": "阿鲁巴"
+  },
+  {
+    "key": "AX",
+    "value": "奥兰群岛"
+  },
+  {
+    "key": "AZ",
+    "value": "阿塞拜疆"
+  },
+  {
+    "key": "BA",
+    "value": "波黑"
+  },
+  {
+    "key": "BB",
+    "value": "巴巴多斯"
+  },
+  {
+    "key": "BD",
+    "value": "孟加拉"
+  },
+  {
+    "key": "BE",
+    "value": "比利时"
+  },
+  {
+    "key": "BF",
+    "value": "布基纳法索"
+  },
+  {
+    "key": "BG",
+    "value": "保加利亚"
+  },
+  {
+    "key": "BH",
+    "value": "巴林"
+  },
+  {
+    "key": "BI",
+    "value": "布隆迪"
+  },
+  {
+    "key": "BJ",
+    "value": "贝宁"
+  },
+  {
+    "key": "BL",
+    "value": "圣巴泰勒米岛"
+  },
+  {
+    "key": "BM",
+    "value": "百慕大"
+  },
+  {
+    "key": "BN",
+    "value": "文莱"
+  },
+  {
+    "key": "BO",
+    "value": "玻利维亚"
+  },
+  {
+    "key": "BQ",
+    "value": "荷兰加勒比区"
+  },
+  {
+    "key": "BR",
+    "value": "巴西"
+  },
+  {
+    "key": "BS",
+    "value": "巴哈马"
+  },
+  {
+    "key": "BT",
+    "value": "不丹"
+  },
+  {
+    "key": "BV",
+    "value": "布韦岛"
+  },
+  {
+    "key": "BW",
+    "value": "博茨瓦纳"
+  },
+  {
+    "key": "BY",
+    "value": "白俄罗斯"
+  },
+  {
+    "key": "BZ",
+    "value": "伯利兹"
+  },
+  {
+    "key": "CA",
+    "value": "加拿大"
+  },
+  {
+    "key": "CC",
+    "value": "科科斯群岛"
+  },
+  {
+    "key": "CD",
+    "value": "刚果（金）"
+  },
+  {
+    "key": "CF",
+    "value": "中非"
+  },
+  {
+    "key": "CG",
+    "value": "刚果（布）"
+  },
+  {
+    "key": "CH",
+    "value": "瑞士"
+  },
+  {
+    "key": "CI",
+    "value": "科特迪瓦"
+  },
+  {
+    "key": "CK",
+    "value": "库克群岛"
+  },
+  {
+    "key": "CL",
+    "value": "智利"
+  },
+  {
+    "key": "CM",
+    "value": "喀麦隆"
+  },
+  {
+    "key": "CN",
+    "value": "中国"
+  },
+  {
+    "key": "CO",
+    "value": "哥伦比亚"
+  },
+  {
+    "key": "CR",
+    "value": "哥斯达黎加"
+  },
+  {
+    "key": "CU",
+    "value": "古巴"
+  },
+  {
+    "key": "CV",
+    "value": "佛得角"
+  },
+  {
+    "key": "CW",
+    "value": "库拉索"
+  },
+  {
+    "key": "CX",
+    "value": "圣诞岛"
+  },
+  {
+    "key": "CY",
+    "value": "塞浦路斯"
+  },
+  {
+    "key": "CZ",
+    "value": "捷克"
+  },
+  {
+    "key": "DE",
+    "value": "德国"
+  },
+  {
+    "key": "DJ",
+    "value": "吉布提"
+  },
+  {
+    "key": "DK",
+    "value": "丹麦"
+  },
+  {
+    "key": "DM",
+    "value": "多米尼克"
+  },
+  {
+    "key": "DO",
+    "value": "多米尼加"
+  },
+  {
+    "key": "DZ",
+    "value": "阿尔及利亚"
+  },
+  {
+    "key": "EC",
+    "value": "厄瓜多尔"
+  },
+  {
+    "key": "EE",
+    "value": "爱沙尼亚"
+  },
+  {
+    "key": "EG",
+    "value": "埃及"
+  },
+  {
+    "key": "EH",
+    "value": "西撒哈拉"
+  },
+  {
+    "key": "ER",
+    "value": "厄立特里亚"
+  },
+  {
+    "key": "ES",
+    "value": "西班牙"
+  },
+  {
+    "key": "ET",
+    "value": "埃塞俄比亚"
+  },
+  {
+    "key": "FI",
+    "value": "芬兰"
+  },
+  {
+    "key": "FJ",
+    "value": "斐济群岛"
+  },
+  {
+    "key": "FK",
+    "value": "马尔维纳斯群岛（福克兰）"
+  },
+  {
+    "key": "FM",
+    "value": "密克罗尼西亚联邦"
+  },
+  {
+    "key": "FO",
+    "value": "法罗群岛"
+  },
+  {
+    "key": "FR",
+    "value": "法国 法国"
+  },
+  {
+    "key": "GA",
+    "value": "加蓬"
+  },
+  {
+    "key": "GB",
+    "value": "英国"
+  },
+  {
+    "key": "GD",
+    "value": "格林纳达"
+  },
+  {
+    "key": "GE",
+    "value": "格鲁吉亚"
+  },
+  {
+    "key": "GF",
+    "value": "法属圭亚那"
+  },
+  {
+    "key": "GG",
+    "value": "根西岛"
+  },
+  {
+    "key": "GH",
+    "value": "加纳"
+  },
+  {
+    "key": "GI",
+    "value": "直布罗陀"
+  },
+  {
+    "key": "GL",
+    "value": "格陵兰"
+  },
+  {
+    "key": "GM",
+    "value": "冈比亚"
+  },
+  {
+    "key": "GN",
+    "value": "几内亚"
+  },
+  {
+    "key": "GP",
+    "value": "瓜德罗普"
+  },
+  {
+    "key": "GQ",
+    "value": "赤道几内亚"
+  },
+  {
+    "key": "GR",
+    "value": "希腊"
+  },
+  {
+    "key": "GS",
+    "value": "南乔治亚岛和南桑威奇群岛"
+  },
+  {
+    "key": "GT",
+    "value": "危地马拉"
+  },
+  {
+    "key": "GU",
+    "value": "关岛"
+  },
+  {
+    "key": "GW",
+    "value": "几内亚比绍"
+  },
+  {
+    "key": "GY",
+    "value": "圭亚那"
+  },
+  {
+    "key": "HK",
+    "value": "香港"
+  },
+  {
+    "key": "HM",
+    "value": "赫德岛和麦克唐纳群岛"
+  },
+  {
+    "key": "HN",
+    "value": "洪都拉斯"
+  },
+  {
+    "key": "HR",
+    "value": "克罗地亚"
+  },
+  {
+    "key": "HT",
+    "value": "海地"
+  },
+  {
+    "key": "HU",
+    "value": "匈牙利"
+  },
+  {
+    "key": "ID",
+    "value": "印尼"
+  },
+  {
+    "key": "IE",
+    "value": "爱尔兰"
+  },
+  {
+    "key": "IL",
+    "value": "以色列"
+  },
+  {
+    "key": "IM",
+    "value": "马恩岛"
+  },
+  {
+    "key": "IN",
+    "value": "印度"
+  },
+  {
+    "key": "IO",
+    "value": "英属印度洋领地"
+  },
+  {
+    "key": "IQ",
+    "value": "伊拉克"
+  },
+  {
+    "key": "IR",
+    "value": "伊朗"
+  },
+  {
+    "key": "IS",
+    "value": "冰岛"
+  },
+  {
+    "key": "IT",
+    "value": "意大利"
+  },
+  {
+    "key": "JE",
+    "value": "泽西岛"
+  },
+  {
+    "key": "JM",
+    "value": "牙买加"
+  },
+  {
+    "key": "JO",
+    "value": "约旦"
+  },
+  {
+    "key": "JP",
+    "value": "日本"
+  },
+  {
+    "key": "KE",
+    "value": "肯尼亚"
+  },
+  {
+    "key": "KG",
+    "value": "吉尔吉斯斯坦"
+  },
+  {
+    "key": "KH",
+    "value": "柬埔寨"
+  },
+  {
+    "key": "KI",
+    "value": "基里巴斯"
+  },
+  {
+    "key": "KM",
+    "value": "科摩罗"
+  },
+  {
+    "key": "KN",
+    "value": "圣基茨和尼维斯"
+  },
+  {
+    "key": "KP",
+    "value": "朝鲜"
+  },
+  {
+    "key": "KR",
+    "value": "韩国"
+  },
+  {
+    "key": "KW",
+    "value": "科威特"
+  },
+  {
+    "key": "KY",
+    "value": "开曼群岛"
+  },
+  {
+    "key": "KZ",
+    "value": "哈萨克斯坦"
+  },
+  {
+    "key": "LA",
+    "value": "老挝"
+  },
+  {
+    "key": "LB",
+    "value": "黎巴嫩"
+  },
+  {
+    "key": "LC",
+    "value": "圣卢西亚"
+  },
+  {
+    "key": "LI",
+    "value": "列支敦士登"
+  },
+  {
+    "key": "LK",
+    "value": "斯里兰卡"
+  },
+  {
+    "key": "LR",
+    "value": "利比里亚"
+  },
+  {
+    "key": "LS",
+    "value": "莱索托"
+  },
+  {
+    "key": "LT",
+    "value": "立陶宛"
+  },
+  {
+    "key": "LU",
+    "value": "卢森堡"
+  },
+  {
+    "key": "LV",
+    "value": "拉脱维亚"
+  },
+  {
+    "key": "LY",
+    "value": "利比亚"
+  },
+  {
+    "key": "MA",
+    "value": "摩洛哥"
+  },
+  {
+    "key": "MC",
+    "value": "摩纳哥"
+  },
+  {
+    "key": "MD",
+    "value": "摩尔多瓦"
+  },
+  {
+    "key": "ME",
+    "value": "黑山"
+  },
+  {
+    "key": "MF",
+    "value": "法属圣马丁"
+  },
+  {
+    "key": "MG",
+    "value": "马达加斯加"
+  },
+  {
+    "key": "MH",
+    "value": "马绍尔群岛"
+  },
+  {
+    "key": "MK",
+    "value": "马其顿"
+  },
+  {
+    "key": "ML",
+    "value": "马里"
+  },
+  {
+    "key": "MM",
+    "value": "缅甸"
+  },
+  {
+    "key": "MN",
+    "value": "蒙古国"
+  },
+  {
+    "key": "MO",
+    "value": "澳门"
+  },
+  {
+    "key": "MP",
+    "value": "北马里亚纳群岛"
+  },
+  {
+    "key": "MQ",
+    "value": "马提尼克"
+  },
+  {
+    "key": "MR",
+    "value": "毛里塔尼亚"
+  },
+  {
+    "key": "MS",
+    "value": "蒙塞拉特岛"
+  },
+  {
+    "key": "MT",
+    "value": "马耳他"
+  },
+  {
+    "key": "MU",
+    "value": "毛里求斯"
+  },
+  {
+    "key": "MV",
+    "value": "马尔代夫"
+  },
+  {
+    "key": "MW",
+    "value": "马拉维"
+  },
+  {
+    "key": "MX",
+    "value": "墨西哥"
+  },
+  {
+    "key": "MY",
+    "value": "马来西亚"
+  },
+  {
+    "key": "MZ",
+    "value": "莫桑比克"
+  },
+  {
+    "key": "NA",
+    "value": "纳米比亚"
+  },
+  {
+    "key": "NC",
+    "value": "新喀里多尼亚"
+  },
+  {
+    "key": "NE",
+    "value": "尼日尔"
+  },
+  {
+    "key": "NF",
+    "value": "诺福克岛"
+  },
+  {
+    "key": "NG",
+    "value": "尼日利亚"
+  },
+  {
+    "key": "NI",
+    "value": "尼加拉瓜"
+  },
+  {
+    "key": "NL",
+    "value": "荷兰"
+  },
+  {
+    "key": "NO",
+    "value": "挪威"
+  },
+  {
+    "key": "NP",
+    "value": "尼泊尔"
+  },
+  {
+    "key": "NR",
+    "value": "瑙鲁"
+  },
+  {
+    "key": "NU",
+    "value": "纽埃"
+  },
+  {
+    "key": "NZ",
+    "value": "新西兰"
+  },
+  {
+    "key": "OM",
+    "value": "阿曼"
+  },
+  {
+    "key": "PA",
+    "value": "巴拿马"
+  },
+  {
+    "key": "PE",
+    "value": "秘鲁"
+  },
+  {
+    "key": "PF",
+    "value": "法属波利尼西亚"
+  },
+  {
+    "key": "PG",
+    "value": "巴布亚新几内亚"
+  },
+  {
+    "key": "PH",
+    "value": "菲律宾"
+  },
+  {
+    "key": "PK",
+    "value": "巴基斯坦"
+  },
+  {
+    "key": "PL",
+    "value": "波兰"
+  },
+  {
+    "key": "PM",
+    "value": "圣皮埃尔和密克隆"
+  },
+  {
+    "key": "PN",
+    "value": "皮特凯恩群岛"
+  },
+  {
+    "key": "PR",
+    "value": "波多黎各"
+  },
+  {
+    "key": "PS",
+    "value": "巴勒斯坦"
+  },
+  {
+    "key": "PT",
+    "value": "葡萄牙"
+  },
+  {
+    "key": "PW",
+    "value": "帕劳"
+  },
+  {
+    "key": "PY",
+    "value": "巴拉圭"
+  },
+  {
+    "key": "QA",
+    "value": "卡塔尔"
+  },
+  {
+    "key": "RE",
+    "value": "留尼汪"
+  },
+  {
+    "key": "RO",
+    "value": "罗马尼亚"
+  },
+  {
+    "key": "RS",
+    "value": "塞尔维亚"
+  },
+  {
+    "key": "RU",
+    "value": "俄罗斯"
+  },
+  {
+    "key": "RW",
+    "value": "卢旺达"
+  },
+  {
+    "key": "SA",
+    "value": "沙特阿拉伯"
+  },
+  {
+    "key": "SB",
+    "value": "所罗门群岛"
+  },
+  {
+    "key": "SC",
+    "value": "塞舌尔"
+  },
+  {
+    "key": "SD",
+    "value": "苏丹"
+  },
+  {
+    "key": "SE",
+    "value": "瑞典"
+  },
+  {
+    "key": "SG",
+    "value": "新加坡"
+  },
+  {
+    "key": "SH",
+    "value": "圣赫勒拿"
+  },
+  {
+    "key": "SI",
+    "value": "斯洛文尼亚"
+  },
+  {
+    "key": "SJ",
+    "value": "斯瓦尔巴群岛和扬马延岛"
+  },
+  {
+    "key": "SK",
+    "value": "斯洛伐克"
+  },
+  {
+    "key": "SL",
+    "value": "塞拉利昂"
+  },
+  {
+    "key": "SM",
+    "value": "圣马力诺"
+  },
+  {
+    "key": "SN",
+    "value": "塞内加尔"
+  },
+  {
+    "key": "SO",
+    "value": "索马里"
+  },
+  {
+    "key": "SR",
+    "value": "苏里南"
+  },
+  {
+    "key": "SS",
+    "value": "南苏丹"
+  },
+  {
+    "key": "ST",
+    "value": "圣多美和普林西比"
+  },
+  {
+    "key": "SV",
+    "value": "萨尔瓦多"
+  },
+  {
+    "key": "SX",
+    "value": "荷属圣马丁"
+  },
+  {
+    "key": "SY",
+    "value": "叙利亚"
+  },
+  {
+    "key": "SZ",
+    "value": "斯威士兰"
+  },
+  {
+    "key": "TC",
+    "value": "特克斯和凯科斯群岛"
+  },
+  {
+    "key": "TD",
+    "value": "乍得"
+  },
+  {
+    "key": "TF",
+    "value": "法属南部领地"
+  },
+  {
+    "key": "TG",
+    "value": "多哥"
+  },
+  {
+    "key": "TH",
+    "value": "泰国"
+  },
+  {
+    "key": "TJ",
+    "value": "塔吉克斯坦"
+  },
+  {
+    "key": "TK",
+    "value": "托克劳"
+  },
+  {
+    "key": "TL",
+    "value": "东帝汶"
+  },
+  {
+    "key": "TM",
+    "value": "土库曼斯坦"
+  },
+  {
+    "key": "TN",
+    "value": "突尼斯"
+  },
+  {
+    "key": "TO",
+    "value": "汤加"
+  },
+  {
+    "key": "TR",
+    "value": "土耳其"
+  },
+  {
+    "key": "TT",
+    "value": "特立尼达和多巴哥"
+  },
+  {
+    "key": "TV",
+    "value": "图瓦卢"
+  },
+  {
+    "key": "TW",
+    "value": "台湾"
+  },
+  {
+    "key": "TZ",
+    "value": "坦桑尼亚"
+  },
+  {
+    "key": "UA",
+    "value": "乌克兰"
+  },
+  {
+    "key": "UG",
+    "value": "乌干达"
+  },
+  {
+    "key": "UM",
+    "value": "美国本土外小岛屿"
+  },
+  {
+    "key": "US",
+    "value": "美国"
+  },
+  {
+    "key": "UY",
+    "value": "乌拉圭"
+  },
+  {
+    "key": "UZ",
+    "value": "乌兹别克斯坦"
+  },
+  {
+    "key": "VA",
+    "value": "梵蒂冈"
+  },
+  {
+    "key": "VC",
+    "value": "圣文森特和格林纳丁斯"
+  },
+  {
+    "key": "VE",
+    "value": "委内瑞拉"
+  },
+  {
+    "key": "VG",
+    "value": "英属维尔京群岛"
+  },
+  {
+    "key": "VI",
+    "value": "美属维尔京群岛"
+  },
+  {
+    "key": "VN",
+    "value": "越南"
+  },
+  {
+    "key": "VU",
+    "value": "瓦努阿图"
+  },
+  {
+    "key": "WF",
+    "value": "瓦利斯和富图纳"
+  },
+  {
+    "key": "WS",
+    "value": "萨摩亚"
+  },
+  {
+    "key": "YE",
+    "value": "也门"
+  },
+  {
+    "key": "YT",
+    "value": "马约特"
+  },
+  {
+    "key": "ZA",
+    "value": "南非"
+  },
+  {
+    "key": "ZM",
+    "value": "赞比亚"
+  },
+  {
+    "key": "ZW",
+    "value": "津巴布韦"
+  }
+]
